@@ -149,7 +149,8 @@ li {
     justify-content: space-between;
 }
 .article-box {
-    width: 570px;
+    width: 100%;
+    max-width: 570px;
     background-color: #F2F2F2;
     padding-top: 10px;
 }
