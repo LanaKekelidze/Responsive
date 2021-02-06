@@ -2,7 +2,11 @@
   .blue-bg {
     background-color: black
   }
-  .box {
+  .box:first-child {
+    width: 300px;
+    color: red;
+  }
+  .box:last-child {
     width: 300px;
     color: red;
   }
