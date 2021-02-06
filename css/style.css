@@ -18,10 +18,6 @@
 li {
     margin-right: 31px;
 }
-.fa-search {
-    padding-right: 98px;
-}
-
 
 /* icons */
 .fa-google-plus-g {
@@ -42,8 +38,7 @@ li {
 }
 .burger-icon{
   font-size: 30px;
-  color: #fff;
-  margin-right: 15px
+  color: grey;
 }
 .divider {
     width: 1px;
