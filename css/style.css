@@ -140,15 +140,11 @@ li {
 }
 /* seqtion4 */
 .light-gray-bg {
-  width: 100%;
-    max-width:1100.px;
     background-color: #E6E6E6;
     padding-top: 33px;
     padding-bottom: 31px;
 }
 .article-wraper {
-  width: 100%;
-    max-width: 753px;
     display: flex;
     justify-content: space-between;
 }
