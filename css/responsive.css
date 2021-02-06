@@ -1,8 +1,11 @@
-@media (max-width:500px) {
+@media (max-width:1110px) {
   .navigation {
     display: none;
   }
   .icon {
+    display: none;
+  }
+  .divider {
     display: none;
   }
 }
