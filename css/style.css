@@ -63,19 +63,6 @@ li {
 .big-image {
     position: relative;
 }
-.divaider {
-    position: absolute;
-    width: 100%;
-     max-width: 150px;
-     color: #E6E6E6;
-     top: 60%;
-     right: 70%;
-}
-@media max-width(1150px) {
-  .divaider-h4 {
-    display:none;
-  }
-}
 /* seqtion2 */
 .blue-bg {
     width: 100%
