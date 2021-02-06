@@ -18,6 +18,9 @@
 li {
     margin-right: 31px;
 }
+.navigation {
+  width: 100%;
+}
 
 /* icons */
 .fa-google-plus-g {
