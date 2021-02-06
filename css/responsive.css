@@ -112,3 +112,21 @@
     padding-right: 9px;
   }
 }
+
+@media (max-width:357px) {
+  .article-box {
+    max-width: 130px;
+  }
+  .article {
+    width: 130px;
+  }
+  .light-gray-image {
+    margin-left: 1px;
+  }
+  .article-text {
+    margin-left: 1px;
+  }
+  .light-image {
+    margin-left: 1px;
+  }
+}
