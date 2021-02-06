@@ -124,6 +124,10 @@ li {
 .image-box {
     background-color: #E6E6E6;
     padding-bottom: 20px;
+    width:270px;
+}
+.image-box img{
+      width: 100%;
 }
 .one {
     margin-left: 12px;
