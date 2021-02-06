@@ -12,8 +12,8 @@
 }
 .nav-ul {
     display: flex;
-    margin-left: 103px;
-    margin-right: 140px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 li {
     margin-right: 31px;
@@ -35,7 +35,7 @@ li {
 .fa-search {
     color: #EE4036;
     font-size: 30px;
-    padding-right: 80px
+    padding-right: 15px
 }
 .burger-icon{
   font-size: 30px;
