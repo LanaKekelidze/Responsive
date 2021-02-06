@@ -4,11 +4,11 @@
   }
   .box:first-child {
     width: 300px;
-    color: red;
+    background-color: red;
   }
   .box:last-child {
     width: 300px;
-    color: red;
+    background-color: red;
   }
   .paragrap {
     font-size: 13px;
