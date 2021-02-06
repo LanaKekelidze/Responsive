@@ -1,3 +1,11 @@
+@media (max-width:1110px) {
+  .navigation {
+    display: none;
+  }
+}
+
+
+
 @media (max-width:1000px) {
   .blue-bg {
     background-color: black
