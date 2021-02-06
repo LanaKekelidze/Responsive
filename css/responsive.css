@@ -102,4 +102,13 @@
   .read {
     font-size: 10px;
   }
+  .featured {
+    font-size: 15px;
+  }
+  .texttext {
+    padding-left: 9px;
+  }
+  .texttext1 {
+    padding-right: 9px;
+  }
 }
