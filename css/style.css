@@ -125,11 +125,10 @@ li {
     background-color: #E6E6E6;
     padding-bottom: 20px;
     max-width:270px;
-    max-height: 280px;
 }
 .image-box img{
       width: 100%;
-      height:
+      height:75%;
 }
 .one {
     margin-left: 12px;
