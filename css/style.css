@@ -31,7 +31,6 @@ li {
 .fa-facebook-f {
     color: #3D58A6;
     font-size: 30px;
-
 }
 .fa-youtube-square {
     color: #3D58A6;
@@ -40,6 +39,11 @@ li {
 .fa-search {
     color: #EE4036;
     font-size: 30px;
+}
+.fa-bars {
+  font-size: 30px;
+  color: #fff;
+  margin-right: 15px
 }
 .divider {
     width: 1px;
