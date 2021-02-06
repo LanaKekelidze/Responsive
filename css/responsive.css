@@ -27,3 +27,12 @@
     font-size: 15px;
   }
 }
+
+@media (max-width:651px) {
+  .image-box {
+    max-width: 100px;
+  }
+  .one {
+    font-size: 10px;
+  }
+}
