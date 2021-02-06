@@ -147,6 +147,8 @@ li {
     padding-bottom: 31px;
 }
 .article-wraper {
+  width: 100%;
+    max-width: 753px;
     display: flex;
     justify-content: space-between;
 }
