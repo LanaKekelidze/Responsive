@@ -1,6 +1,6 @@
 /* header */
 
-.header-1 {
+/* .header-1 {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -17,10 +17,10 @@
 }
 li {
     margin-right: 31px;
-}
+} */
 
 /* icons */
-.fa-google-plus-g {
+/* .fa-google-plus-g {
     font-size: 30px;
     color: #3D58A6;
 }
@@ -47,7 +47,7 @@ li {
     width: 1px;
     background-color: #363E97;
     height: 30px;
-}
+} */
 /* seqtion1 */
 .the-big-image{
     display: flex;
