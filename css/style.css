@@ -65,10 +65,11 @@ li {
 }
 .divaider {
     position: absolute;
-    width: 150px;
-    color: #E6E6E6;
-    top: 60%;
-    right: 70%;
+    width: 100%;
+     max-width: 150px;
+     color: #E6E6E6;
+     top: 60%;
+     right: 70%;
 }
 /* seqtion2 */
 .blue-bg {
@@ -76,7 +77,8 @@ li {
     padding-top: 29px;
 }
 .container {
-    width: 1170px;
+    max-width: 1170px;
+    width: 100%;
     margin: 0 auto;
 }
 .videos-wraper {
