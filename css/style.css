@@ -12,13 +12,13 @@
 }
 .nav-ul {
     display: flex;
-    margin-left: 80px;
-}
+  }
 li {
     margin-right: 31px;
 }
 .navigation {
   width: 100%;
+  margin-left: 80px;
 }
 
 /* icons */
