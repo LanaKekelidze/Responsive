@@ -1,1 +1,29 @@
-
+@media (max-width:982px) {
+  .article-box {
+    max-width: 250px;
+  }
+  .article {
+    width: 200px;
+    height: 100px;
+  }
+  .light-gray-h4 {
+    font-size: 15px;
+  }
+  .light-gray-image {
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+  }
+  .article-text {
+    font-size: 10px;
+    width: 120px;
+  }
+  .light-image {
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+  }
+  .read {
+    font-size: 150px;
+  }
+}
