@@ -56,6 +56,10 @@ li {
     padding-top: 30px;
     padding-bottom: 30px;
 }
+.computer {
+  max-width: 100%;
+  height: auto;
+}
 .big-image {
     position: relative;
 }
