@@ -8,6 +8,9 @@
   .divider {
     display: none;
   }
+  .burger-icon {
+    display: block;
+  }
 }
 
 
